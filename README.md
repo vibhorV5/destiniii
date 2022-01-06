@@ -1,6 +1,6 @@
 # destiniii
 
-A new Flutter project.
+Simple adventure game like Bandersnatch.
 
 ## Getting Started
 
